@@ -1,0 +1,13 @@
+C:\Users\Max Leonel\Desktop\Cebolinha\Cebolinha\bin\Debug\netcoreapp3.1\Cebolinha.exe
+C:\Users\Max Leonel\Desktop\Cebolinha\Cebolinha\bin\Debug\netcoreapp3.1\Cebolinha.deps.json
+C:\Users\Max Leonel\Desktop\Cebolinha\Cebolinha\bin\Debug\netcoreapp3.1\Cebolinha.runtimeconfig.json
+C:\Users\Max Leonel\Desktop\Cebolinha\Cebolinha\bin\Debug\netcoreapp3.1\Cebolinha.runtimeconfig.dev.json
+C:\Users\Max Leonel\Desktop\Cebolinha\Cebolinha\bin\Debug\netcoreapp3.1\Cebolinha.dll
+C:\Users\Max Leonel\Desktop\Cebolinha\Cebolinha\bin\Debug\netcoreapp3.1\Cebolinha.pdb
+C:\Users\Max Leonel\Desktop\Cebolinha\Cebolinha\obj\Debug\netcoreapp3.1\Cebolinha.csprojAssemblyReference.cache
+C:\Users\Max Leonel\Desktop\Cebolinha\Cebolinha\obj\Debug\netcoreapp3.1\Cebolinha.AssemblyInfoInputs.cache
+C:\Users\Max Leonel\Desktop\Cebolinha\Cebolinha\obj\Debug\netcoreapp3.1\Cebolinha.AssemblyInfo.cs
+C:\Users\Max Leonel\Desktop\Cebolinha\Cebolinha\obj\Debug\netcoreapp3.1\Cebolinha.csproj.CoreCompileInputs.cache
+C:\Users\Max Leonel\Desktop\Cebolinha\Cebolinha\obj\Debug\netcoreapp3.1\Cebolinha.dll
+C:\Users\Max Leonel\Desktop\Cebolinha\Cebolinha\obj\Debug\netcoreapp3.1\Cebolinha.pdb
+C:\Users\Max Leonel\Desktop\Cebolinha\Cebolinha\obj\Debug\netcoreapp3.1\Cebolinha.genruntimeconfig.cache
